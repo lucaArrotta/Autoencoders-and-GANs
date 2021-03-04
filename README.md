@@ -4,6 +4,4 @@
   <img src="/imgs/mtp_logo.png"/>
 </p>
 
-![marktechpost](/imgs/mtp_logo.png)
-
 The notebook of this repository has been developed to support the course **Autoencoders and GANs with Python** by **marktechpost.com**.
